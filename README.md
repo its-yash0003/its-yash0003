@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gautam</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Curious Learner | Tech Enthusiast</h3>
+<h3 align="center">🚀 Building the Web, One Line of Code at a Time | Full Stack Dev | Freelancer </h3>
 
 ---
 
@@ -71,9 +71,7 @@
 ---
 
 ### ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" title="Quote of the Day"/>
-</p>
+<p align="center" style="font-style: italic; font-size: 1.2em;"> "Programs must be written for people to read, and only incidentally for machines to execute." <br/>— Harold Abelson </p>
 
 ---
 
