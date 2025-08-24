@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gautam</h1>
-<h3 align="center">🚀 Building the Web, One Line of Code at a Time | Full Stack Dev | Freelancer </h3>
+<h3 align="center"> Building the Web, One Line of Code at a Time <br> Full Stack Dev | Freelancer </h3>
 
 ---
 
