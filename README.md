@@ -46,18 +46,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/its-yash0003" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://github.com/its-yash0003" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=its-yash0003&show_icons=true&theme=radical" height="160" title="GitHub Stats"/>
-  </a>
+  </a> -->
   <a href="https://github.com/its-yash0003" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-yash0003&layout=compact&theme=radical" height="160" title="Most Used Languages"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/its-yash0003" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-yash0003&theme=radical" height="160" title="GitHub Streak"/>
   </a>
-</p>
+</p> -->
 
 ---
 
