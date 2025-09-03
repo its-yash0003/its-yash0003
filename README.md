@@ -40,7 +40,10 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/ios-filled/48/4479A1/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
 </p>
+
 
 ---
 
